@@ -43,7 +43,7 @@ A Streamlit-based web application to explore and visualize various clustering al
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/clustering-playground.git
+   git clone https://github.com/Amoako419/Clustering_App.git
    cd clustering-playground
    ```
 
@@ -88,13 +88,13 @@ A Streamlit-based web application to explore and visualize various clustering al
 ## Screenshots
 
 ### 2D Visualization
-![2D Visualization](screenshots/2d.png)
+![2D Visualization](screenshots/2d.jpeg)
 
 ### 3D Visualization
-![3D Visualization](screenshots/3d.png)
+![3D Visualization](screenshots/3d.jpeg)
 
 ### Algorithm Selection
-![Algorithm Selection](screenshots/sidebar.png)
+![Algorithm Selection](screenshots/sidebar.jpeg)
 
 ---
 

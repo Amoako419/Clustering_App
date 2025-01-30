@@ -60,7 +60,7 @@ A Streamlit-based web application to explore and visualize various clustering al
 
 3. **Run the App**:
    ```bash
-   streamlit run clustering_app_3d_no_hdbscan.py
+   streamlit run clustering.py
    ```
 
 4. **Open in Browser**:
@@ -102,7 +102,7 @@ A Streamlit-based web application to explore and visualize various clustering al
 
 ```
 clustering-playground/
-├── clustering_app_3d_no_hdbscan.py  # Main Streamlit app file
+├── clustering.py  # Main Streamlit app file
 ├── README.md                        # Project documentation
 ├── requirements.txt                 # List of dependencies
 └── screenshots/                     # Screenshots for the README

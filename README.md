@@ -44,7 +44,6 @@ A Streamlit-based web application to explore and visualize various clustering al
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Amoako419/Clustering_App.git
-   cd clustering-playground
    ```
 
 2. **Install Dependencies**:
